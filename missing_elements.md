@@ -35,7 +35,7 @@
 ## Books
 | Authors    | Book |
 | -------- | ------- |
-| Leontyev & Gippenreiter | Psychological Research In the USSR, Progress Publishers, Moscow (1966) |
+| Leontyev & Gippenreiter | Psychological Research In the USSR (Vol 2-3 are missing), Progress Publishers, Moscow (1966) |
 | ? | Soviet Studies in Philosophy, a journal of translations. |
 | A.N. Leont'yev | "Schizophrenia—acoustic and semantic attributes," Soviet Psychology VII(3) | 
 | V.N. Chemigovskii |  Interoceptors, American Psychological Association, Washington, (1967 ?) |
@@ -109,7 +109,6 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 ## Books
 | Authors    | Book | Subject or Excerpt |
 | -------- | ------- | ------- |
-| V. Korenchevsky | Physiology and pathology of aging, Hafner, N.Y. 1961 | Water and sodium retention induced by estrogen |
 | H.G. Muller-Verlag | Krailing bei Munchen, 1959 | "B.F. Sandler wrote a book on nutrition for avoiding polio" |
 | ? | Physicians Desk Reference, iodides | "Iodides are known to benefit arteriosclerosis, with visible improvement occurring in blood vessels in the retina" |
 | John P. Merrill | Principles of Internal Medicine, Harrison, 2nd edition (1954), p. 1425 | "Caffeine, in fact, is prescribed in doses equivalent to 2 to 4 cups of coffee (200 to 400 mg.) to relieve hypertensive headaches" |
